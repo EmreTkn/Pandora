@@ -1,0 +1,39 @@
+[
+  {
+    "Id": 1,
+    "Name": "Job 1",
+    "Difficulty": 1,
+    "Taken": false 
+  },
+  {
+    "Id": 2,
+    "Name": "Job 2",
+    "Difficulty": 2,
+    "Taken": false
+  },
+  {
+    "Id": 3,
+    "Name": "Job 3",
+    "Difficulty": 3,
+    "Taken": false
+  },
+  {
+    "Id": 4,
+    "Name": "Job 4",
+    "Difficulty": 4,
+    "Taken": false
+  },
+  {
+    "Id": 5,
+    "Name": "Job 5",
+    "Difficulty": 5,
+    "Taken": false
+  },
+  {
+    "Id": 6,
+    "Name": "Job 6",
+    "Difficulty": 6,
+    "Taken": false
+  }
+
+]
